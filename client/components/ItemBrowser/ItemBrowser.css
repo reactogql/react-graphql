@@ -1,0 +1,50 @@
+.ItemBrowser {
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.ItemBrowserCards {
+  margin-bottom: 100px;
+}
+
+.card-body a {
+  text-align: center;
+  color: rgb(0, 131, 151);
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(224, 119, 119);
+}
+
+.card-subtitle {
+  text-align: center;
+  font-style: italic;
+  display: block;
+  background-color: rgb(215, 238, 241);
+  margin-bottom: 15px !important;
+}
+
+.card-text {
+  text-align: center;
+  color: rgb(87, 86, 86);
+}
+
+.tab-pane {
+  margin-top: 35px;
+}
+
+.tab1 {
+  padding-top: 25px;
+}
+
+.tab1 p {
+  margin-top: 15px;
+}
+
+@media (max-width: 768px) {
+  .card {
+    margin-bottom: 50px;
+  }
+}

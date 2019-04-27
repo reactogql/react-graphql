@@ -1,0 +1,19 @@
+.carouselImage {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-caption {
+  background-color: rgba(41, 36, 36, 0.5);
+  border-radius: 30px;
+  padding: 5px 0 !important;
+  margin: 15px auto !important;
+}
+.carousel-caption h3 {
+  font-size: 1rem;
+  font-weight: normal;
+  letter-spacing: 0.35rem;
+  color: white;
+  padding: 0 !important;
+  margin: 0 !important;
+}

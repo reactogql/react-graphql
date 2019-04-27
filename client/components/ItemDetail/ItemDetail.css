@@ -1,0 +1,33 @@
+.detailImage {
+  display: block;
+  margin: 35px auto;
+}
+
+.detail-header {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.section-hr {
+  margin-bottom: 35px;
+}
+
+.badge-h {
+  margin-bottom: 35px;
+}
+
+.home-btn {
+  text-align: center;
+  margin: 50px auto;
+}
+
+.col-detail-mob {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .col-detail-mob {
+    margin-bottom: 50px;
+  }
+}
