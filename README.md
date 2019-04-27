@@ -1,4 +1,4 @@
-# react-graphql
+# React / GraphQL - Apollo
 ## About
 Demo: 
 https://reactgqli.herokuapp.com/
