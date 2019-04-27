@@ -1,6 +1,6 @@
 # react-graphql
 ## About
-
+Demo: https://reactgqli.herokuapp.com/
 A sample MERN project:
 
 1. Back-end: Nodejs, Express, Mongodb, GraphQL
